@@ -11,7 +11,7 @@ date_format: "%d %B, %Y"
 show_social: true 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: truee        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: true            # use a dark header
 
 # Menu
@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About Me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mail: antsoukala@uth.gr"}
-  - {title: Github, icon: github, url: "https://github.com/tsoukanas"}
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/antsouk"}
+  - {title: "Mail", icon: envelope, url: "mail: antsoukala@uth.gr"}
+  - {title: "Github", icon: github, url: "https://github.com/tsoukanas"}
+  - {title: "Twitter", icon: twitter, url: "https://twitter.com/antsouk"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
