@@ -17,7 +17,7 @@ minimal: true            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "anastasia.pdf", title: "Resumé" , icon: home}
+  - {file: "anastasia.pdf", title: "Resumé"}
   - {title: "Lab", url: "https://isl.dib.uth.gr/"}
   - {title: "Blog", file: "blog.md"}
 
