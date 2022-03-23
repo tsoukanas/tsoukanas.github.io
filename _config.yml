@@ -17,8 +17,8 @@ minimal: true            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "anastasia.pdf", title: "Home Change" , icon: home}
-  - {file: "README.md", title: "About Me", icon: address-card}
+  - {file: "anastasia.pdf", title: "Resumé" , icon: home}
+  - {title: "Lab", url: "https://isl.dib.uth.gr/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mail: antsoukala@uth.gr"}
